@@ -5,3 +5,4 @@ HackeRStrategy
 https://github.com/HackeRStrategy
 Posteriormente fue editado y mejorado por nosotros.
 Reset
+https://github.com/Theawakeningsociety
